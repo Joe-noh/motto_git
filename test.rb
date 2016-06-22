@@ -1,6 +1,6 @@
 class Hoge
   def foo
-    puts "aaaaaaaaaaaaaaaa"
+    'しもじゅーだよ'
   end
 end
 
