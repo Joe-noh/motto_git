@@ -3,4 +3,3 @@ class Hoge
     puts "aaaaaaaaaaaaaaaa"
   end
 end
-
