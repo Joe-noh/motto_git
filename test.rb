@@ -1,6 +1,6 @@
 class Hoge
   def foo
-    puts "aaaaaaasoia;cosdinvoaisdnvoaaaaaaaaaa"
+    2
   end
 end
 
