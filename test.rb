@@ -3,4 +3,3 @@ class Hoge
     p "hoge"
   end
 end
-
